@@ -1,0 +1,2 @@
+include ':app', ':libbase', ':liba', ':libb'
+rootProject.name='AndroidMultiModule'
